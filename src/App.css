@@ -1,0 +1,19 @@
+.form-group{
+  text-align: center;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 10px 10px 10px 10px;
+  text-decoration: dotted;
+  color: brown;
+}
+
+.form-check-label{
+  color: blue;
+}
+h1{
+  text-align: center;
+color: rgb(157, 112, 199);
+}
+.form-control{
+  text-align: center;
+}
